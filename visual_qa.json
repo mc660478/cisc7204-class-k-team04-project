@@ -1,0 +1,331 @@
+{
+  "figures": [
+    {
+      "stem": "01_common_base_trends",
+      "png_pixels": [
+        2400,
+        1520
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/FAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/GAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "8c86f4d0ed2e455bf8e7f1b84c1e580bb3774809c4bda1004c294df260c8136b"
+    },
+    {
+      "stem": "report_01_common_base_trends",
+      "png_pixels": [
+        2400,
+        1240
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "d2b03501401b5cd9f952977e3f6958a6e1340b673a8687836b2291eacb6cf5ff"
+    },
+    {
+      "stem": "02_annual_growth",
+      "png_pixels": [
+        2400,
+        1520
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "15711a8b68d424dfdc94f77f8259582d822e47c33fe08464fe76b76cf34e2692"
+    },
+    {
+      "stem": "report_02_annual_growth",
+      "png_pixels": [
+        2400,
+        1240
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "a25ad01d4d844d20834752a6f5cf07118323041351394c2395c20ad5a5fad091"
+    },
+    {
+      "stem": "03_relative_price_pressure",
+      "png_pixels": [
+        2400,
+        1520
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/FAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/GAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "6e4c683696eb49d51b6c0f2cae97a90f401e7ea2e2e1054e2c49653faf78782f"
+    },
+    {
+      "stem": "report_03_relative_price_pressure",
+      "png_pixels": [
+        2400,
+        1240
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "44b3e51ade573adc0cea58ef4ff1e56015f36235d95166cfed1d7b51a7f515a4"
+    },
+    {
+      "stem": "04_all_base_year_sensitivity",
+      "png_pixels": [
+        2400,
+        1520
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "c49bbf1fc46ccba65ab764a23817c97a2e52995ae937f2a87cace5e72250d46a"
+    },
+    {
+      "stem": "report_04_all_base_year_sensitivity",
+      "png_pixels": [
+        2400,
+        1240
+      ],
+      "svg_embedded_font_faces": 7,
+      "pdf_fonts": [
+        {
+          "name": "/AAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/BAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/CAAAAA+IBMPlexSansCond-SmBld",
+          "embedded": true
+        },
+        {
+          "name": "/DAAAAA+IBMPlexSans",
+          "embedded": true
+        },
+        {
+          "name": "/EAAAAA+IBMPlexSans",
+          "embedded": true
+        }
+      ],
+      "series_match_frozen_values": true,
+      "linear_segments": true,
+      "no_secondary_axis": true,
+      "sha256": "a8f4aa5923ed1671ed780983890bf55c6602c8bcebf6ade9bf5cdeff18641187"
+    }
+  ],
+  "interactive": [
+    {
+      "file": "01_common_base_trends.html",
+      "external_requests": [],
+      "uncaught_errors": [],
+      "plotly_present": true,
+      "embedded_font_ready": true,
+      "table_rows": 13
+    },
+    {
+      "file": "02_annual_growth.html",
+      "external_requests": [],
+      "uncaught_errors": [],
+      "plotly_present": true,
+      "embedded_font_ready": true,
+      "table_rows": 12
+    },
+    {
+      "file": "03_relative_price_pressure.html",
+      "external_requests": [],
+      "uncaught_errors": [],
+      "plotly_present": true,
+      "embedded_font_ready": true,
+      "table_rows": 13
+    },
+    {
+      "file": "04_all_base_year_sensitivity.html",
+      "external_requests": [],
+      "uncaught_errors": [],
+      "plotly_present": true,
+      "embedded_font_ready": true,
+      "table_rows": 12
+    }
+  ],
+  "code_cells": 16,
+  "complete_code_captures": 16,
+  "capture_files": 17,
+  "notebook_html_external_scripts": 0,
+  "data_unchanged": true
+}
