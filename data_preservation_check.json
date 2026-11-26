@@ -1,0 +1,54 @@
+{
+  "reference_release": "outputs/Team_04_Final_Project_2026-11-04/Analysis",
+  "all_identical": true,
+  "files": {
+    "all_base_year_sensitivity.csv": {
+      "byte_identical": true,
+      "sha256": "18b68d68279683be60e331ed7c5ab53d413dcab361f47d3e7958e270de1ed496"
+    },
+    "annual_analysis.csv": {
+      "byte_identical": true,
+      "sha256": "2390040441f69adbf9d4d9d9b526b94e8c873d704f44f69b9277cec0f10a642c"
+    },
+    "annual_inputs.csv": {
+      "byte_identical": true,
+      "sha256": "8ad50132f3d1f80e59c4e02a6fb9c0ec20e4449fb750294c5b154303c28a0911"
+    },
+    "data_dictionary.csv": {
+      "byte_identical": true,
+      "sha256": "2bb51021b1ed0d2ee156298d8d8fda5d7cd881a26626be79b672381d75aa3ca4"
+    },
+    "derived_tables_dictionary.csv": {
+      "byte_identical": true,
+      "sha256": "7827451654e891dbc5f7813ba34bf3f78317f23612f577be05ba7dec9bc77d0d"
+    },
+    "observation_provenance.csv": {
+      "byte_identical": true,
+      "sha256": "e9a8faf4b890952485534c433eb381e2e0890336dfc0cd8cb9cfa7207be29c69"
+    },
+    "period_comparisons.csv": {
+      "byte_identical": true,
+      "sha256": "f6bb8d208265b2d115025c6be251b18fc4afd57d95294f1cd71f8e773f5dfb58"
+    },
+    "resident_earnings_annual.csv": {
+      "byte_identical": true,
+      "sha256": "8a42c32af72a4591bee655d793c88f7b6d373a250fffbcfd533cd2cc540f652f"
+    },
+    "rppi_annual.csv": {
+      "byte_identical": true,
+      "sha256": "dcb8837f284acd58f4440d5b3741d3999d006c98e462e40621eb6d216edf6fa0"
+    },
+    "source_register.csv": {
+      "byte_identical": true,
+      "sha256": "2b229de2cee3b4f018b7fd33bf7dbcad70d60c244a0c239113264b5a1150363e"
+    },
+    "vintage_crosscheck.csv": {
+      "byte_identical": true,
+      "sha256": "8a684cbd17d6a1d6a22b72e7a6d452b62457afd14d93572c3dda560a83b45040"
+    },
+    "summary_metrics.json": {
+      "byte_identical": true,
+      "sha256": "6390128e5553f450b27124e5f055fcdac9c36d428760661dc1551f1dd6eabafd"
+    }
+  }
+}
