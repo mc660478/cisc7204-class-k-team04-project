@@ -1,0 +1,41 @@
+CHART DESIGN AND SOFTWARE REFERENCES — 4 NOVEMBER 2026
+
+Plotly.py: https://github.com/plotly/plotly.py
+MIT licence: https://github.com/plotly/plotly.py/blob/main/LICENSE.txt
+Used for declarative charts, hover values, local HTML and editable JSON specifications.
+
+Kaleido: https://github.com/plotly/Kaleido
+MIT licence. Used for PNG, PDF and SVG export through a local Chromium renderer.
+Official export documentation: https://plotly.com/python/static-image-export/
+
+BBC bbplot: https://github.com/bbc/bbplot
+GPL-2 metadata: https://github.com/bbc/bbplot/blob/master/DESCRIPTION
+Design reference for clear hierarchy, sparse grid lines, direct labelling and concise
+source notes. No BBC software, theme, logo or asset is copied into this release.
+
+Financial Times Chart Doctor: https://github.com/Financial-Times/chart-doctor
+Software examples use an MIT licence; FT editorial content has separate copyright.
+Design reference for choosing an encoding by comparison task. No FT asset is copied.
+
+IBM Plex: https://github.com/IBM/plex
+Bundled fonts use the SIL Open Font License. Exact files, licence and download URLs
+are in assets/fonts/. The report and slides use the same families and palette.
+
+DESIGN DECISIONS
+A white canvas, IBM Plex type, direct series labels, horizontal years and quiet grid
+lines keep the observations central. Purple identifies prices; teal, squares and a
+dashed line distinguish earnings. Growth uses teal bars with a visible white hatch.
+Small teal marks identify zero growth. Annual points and straight segments remain.
+Line axes start at 80 (rebased trends) and 60 (relative pressure), explicitly disclosed
+beneath each chart; bar charts retain zero. The 2019–2021 price plateau is annotated
+without shading that could imply uncertainty. No smoothing or secondary axis is used.
+All 12 observed earlier base years remain in the sensitivity chart.
+
+Both standard (1200×760) and report (1200×620) layouts are exported at 2× PNG resolution,
+plus vector PDF/SVG. Report footers are 20 px and axis labels 24 px at the source size.
+All seven bundled font faces are embedded into each SVG and interactive HTML. PDF
+font embedding is checked separately. HTML includes Plotly inline, no MathJax, and an
+accessible numerical table. The notebook reader uses saved static outputs and no JS.
+
+This redesign changes presentation only. Source tables, calculations, statistics and
+scientific interpretation remain those of the completed final analysis.
