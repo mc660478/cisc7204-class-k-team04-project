@@ -1,0 +1,36 @@
+ENVIRONMENT REPRODUCTION — VISUAL REDESIGN
+
+The pyproject.toml and uv.lock files are exact copies of the established CISC7204
+project metadata after adding Kaleido through uv for this release. The previous final
+package is preserved. software_versions.json records the analysis packages;
+visual_export_versions.json records Plotly and Kaleido.
+
+From the Analysis folder on Oscar's computer:
+"/Users/oscar/Documents/UM/Semester 2026-2/CISC/DataVisualization/code/.venv/bin/python" rerun_notebook.py
+
+For a teammate reproducing the saved package with uv, from the Analysis folder:
+uv sync --frozen --no-install-project --python 3.12.14 --project environment
+environment/.venv/bin/python rerun_notebook.py
+
+The --no-install-project option is required: this capsule contains the exact dependency
+metadata, not the original project's build sources or README. Do not remove that option.
+Use the platform-equivalent Python path on Windows. Dependency installation needs
+internet access; subsequent analysis uses only local files and the saved DSEC vintage.
+
+STATIC CHART RENDERING
+Kaleido needs a compatible local Chrome/Chromium installation. Set BROWSER_PATH to
+its executable if it is not detected. On the authoring computer the notebook detects
+the existing Playwright Chromium headless shell. No Chrome download is needed there.
+The verified export platform is macOS. All seven bundled IBM Plex fonts are registered
+for the rendering session, unregistered in a finally block and checked against the
+prior font list. There is no permanent font installation. On another platform, make
+the bundled assets/fonts/ files available to that platform's font renderer before
+export and inspect the PDF font embedding. The saved HTML and SVG already embed them.
+
+The helper reruns every analysis and rendering cell in order, regenerating the saved
+notebook, offline notebook HTML, derived tables, metrics, all four redesigned charts,
+report variants, SVG, PDFs, Plotly JSON and self-contained interactive chart HTML.
+Raw sources remain intact. build_visuals.py can rerender only the charts from the
+frozen annual_analysis.csv and sensitivity CSV without redoing source calculations.
+Run that script from this Analysis folder. A full rerun retains the redesigned style.
+The notebook can also be opened interactively in the reproduced Python environment.
