@@ -1,0 +1,40 @@
+EXPLANATORY NOTES 
+ 
+ 
+ 
+1. Methodology 
+The Employment Survey is conducted on a monthly basis, with the reference period referring to the 
+7 days immediately before the day of interview. Samples are selected after exclusion of collective living 
+quarters, such as military camp, hospi tal, prison, dormitory, elderly home,  etc. Total sample size for the 
+whole year of 2015 consists of 16 800 residential units  and the observation unit is individuals living in 
+these units. Therefore, survey results do not cover Macao resident s and non-resident workers who work 
+in Macao but live in Zhuhai or the neighbouring ar eas; information on these individuals (number, age 
+group, etc.) is extrapolated according to the records from the Immigration Department. 
+ 
+Results of this report are extrapolated based on the information obtained from the samples that are 
+subject to sampling errors. To illustrate the precis ion of the estimates of different variables, the 
+respective standard error and coefficient of variation are listed in the table below. 
+ 
+ 
+Variable Estimated value Standard error Coefficient of 
+ variation (%) 
+Economically active population ('000) 403.8 1.93 0.5 
+Employed population ('000) 396.5 2.01 0.5 
+Unemployed population ('000) 7.3 0.47 6.4 
+Median monthly employment 
+earnings (MOP) 15 000 156 1.0 
+Labour force participation rate (%) 73.7 0.35 0.5 
+Unemployment rate (%) 1.8 0.12 6.7 
+Underemployment rate (%) 0.4 0.06 14.6 
+ 
+ 
+Response rate is the ratio of the number of resident ial units successfully interviewed to the number 
+of occupied units in the sample. In 2015, a total of 15  683 units were occupied, comprising 13  291 
+successful interviews, 526 refusals and 1 866 non-contacts; therefore, the response rate stood at 84.7%. 
+ 
+ 
+ 
+Inquérito ao Emprego 2015
+就業調查二零一五年
+Employment Survey 2015
+37
