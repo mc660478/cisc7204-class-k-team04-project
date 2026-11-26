@@ -1,0 +1,73 @@
+{
+  "release": "visual_redesign",
+  "date": "2026-11-04",
+  "annual_common_years": 13,
+  "input_observations": 26,
+  "separate_annual_inputs": true,
+  "one_to_one_join_verified": true,
+  "code_cells": 16,
+  "source_lines_including_blank": 334,
+  "execution_counts": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "execution_errors": 0,
+  "used_established_project_venv": true,
+  "source_register_entries": 18,
+  "all_source_hashes_verified": true,
+  "current_database_indicators": [
+    65050,
+    55057
+  ],
+  "database_annual_observations_checked": 26,
+  "database_exact_matches": 26,
+  "database_retrieval_date": "2026-11-04",
+  "revised_2017_rppi": 244.8,
+  "original_2017_252_8_excluded": true,
+  "overlapping_rppi_2014_2016_match": true,
+  "yearbook2025_rppi_overlap_match": true,
+  "annual_employment2025_overlap_match": true,
+  "earlier_base_years_checked": 12,
+  "all_earlier_bases_pressure2025_below100": true,
+  "interpolation": false,
+  "quarterly_median_averaging": false,
+  "figure_exports": {
+    "png": 8,
+    "vector_pdf": 8,
+    "font_embedded_svg": 8,
+    "interactive_html": 4,
+    "editable_plotly_json": 4
+  },
+  "complete_code_output_captures": 16,
+  "final_image_capture": true,
+  "environment_metadata_copies_exact": true,
+  "environment_sha256": {
+    "pyproject.toml": "94656ba77ef8b7f9e503523be58a5f21073d42b49adeb0fce8a45a12933a6031",
+    "uv.lock": "b70328d314be797b0d9470ff009510529c0a105581cc9dbd65c6cc680bbd8af9"
+  },
+  "residual_limitations": [
+    "2017 RPPI pricing-model reference-period change;post2018 comparison provided",
+    "Nominal aggregate series;individual resident earnings differ from household income",
+    "No matched13year resident-median uncertainty series;no invented intervals",
+    "No causal or complete household-affordability inference"
+  ],
+  "missing_required_technical_outputs": [],
+  "data_and_metrics_byte_identical_to_completed_final": true,
+  "interactive_offline_network_check": true,
+  "notebook_html_no_scripts": true,
+  "temporary_font_registration_restored": true
+}
