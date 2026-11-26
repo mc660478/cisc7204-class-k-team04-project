@@ -1,0 +1,13 @@
+table,variable,meaning_or_formula,unit
+period_comparisons.csv,start_year/end_year,Inclusive observed endpoint calendar years,year
+period_comparisons.csv,rppi_start/rppi_end,Official annual overall RPPI at the endpoints,index;2011=100
+period_comparisons.csv,earnings_start_mop/earnings_end_mop,Official annual employed-resident medians at the endpoints,MOP
+both period and sensitivity tables,rppi_change_pct,100×[RPPI(end)/RPPI(start)−1],percent over stated period
+both period and sensitivity tables,earnings_change_pct,100×[earnings(end)/earnings(start)−1],percent over stated period
+period_comparisons.csv,relative_pressure_end,100×[RPPI(end)/RPPI(start)]/[earnings(end)/earnings(start)],index;start=100
+all_base_year_sensitivity.csv,base_year,"Every earlier observed year,2013–2024",year
+all_base_year_sensitivity.csv,end_year,Fixed endpoint2025,year
+all_base_year_sensitivity.csv,relative_pressure_2025,100×[RPPI(2025)/RPPI(base)]/[earnings(2025)/earnings(base)],index;base=100
+vintage_crosscheck.csv,archived_value/current_database_value,Published input and corresponding current official annual snapshot,series-specific unit
+vintage_crosscheck.csv,exact_match,Exact numeric comparison;all26True in this release,boolean
+vintage_crosscheck.csv,database_last_update,Update timestamp returned by DSEC for that observation,timestamp
