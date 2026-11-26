@@ -1,0 +1,34 @@
+[
+  {
+    "file": "01_common_base_trends.html",
+    "external_requests": [],
+    "uncaught_errors": [],
+    "plotly_present": true,
+    "embedded_font_ready": true,
+    "table_rows": 13
+  },
+  {
+    "file": "02_annual_growth.html",
+    "external_requests": [],
+    "uncaught_errors": [],
+    "plotly_present": true,
+    "embedded_font_ready": true,
+    "table_rows": 12
+  },
+  {
+    "file": "03_relative_price_pressure.html",
+    "external_requests": [],
+    "uncaught_errors": [],
+    "plotly_present": true,
+    "embedded_font_ready": true,
+    "table_rows": 13
+  },
+  {
+    "file": "04_all_base_year_sensitivity.html",
+    "external_requests": [],
+    "uncaught_errors": [],
+    "plotly_present": true,
+    "embedded_font_ready": true,
+    "table_rows": 12
+  }
+]
