@@ -1,0 +1,5 @@
+source_file,url,sha256,purpose
+indicators_1501.json,https://www.dsec.gov.mo/TimeSeriesApi/App/Indicatorv3/1501,b7412efee92ab386a914f95c6f5cc09c4ecdd5e22552111157e9db7ac8dfc6ca,"Current indicator hierarchy;names,scope,annual availability,units"
+indicators_65049.json,https://www.dsec.gov.mo/TimeSeriesApi/App/Indicatorv3/65049,f50d603290ce5f28101a0b2ab7eae84f1486d72b1e98204c6af3fc4243736bb8,"Current indicator hierarchy;names,scope,annual availability,units"
+indicators_32000.json,https://www.dsec.gov.mo/TimeSeriesApi/App/Indicatorv3/32000,4ca12cc59412562ceb34137e53807dc28fa0a40862a0246f0a46e1c7ae3544f1,"Current indicator hierarchy;names,scope,annual availability,units"
+indicators_60600.json,https://www.dsec.gov.mo/TimeSeriesApi/App/Indicatorv3/60600,022f8b71c03854b59a1f9acc9976079e2f42020b28acadddd165006e5f72a1ec,"Current indicator hierarchy;names,scope,annual availability,units"
