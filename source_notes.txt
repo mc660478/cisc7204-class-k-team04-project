@@ -1,0 +1,83 @@
+SOURCE AND INTERPRETATION NOTES — 4 NOVEMBER 2026
+
+1. ANNUAL RPPI
+Use the overall Macao Residential Property Price Index, official base 2011=100.
+2013: annual 2016 statistical workbook, Sheet 1, C16.
+2014–2019: annual rows in the later 2019 statistical workbook, Sheet 4.
+2020–2025: annual column in each respective whole-year RPPI release, PDF page 1.
+The annual value is distinct from the October–December/current-period index.
+
+2. ANNUAL EMPLOYED-RESIDENT EARNINGS
+2013: Employment Survey 2013, English Summary, printed/PDF page 21.
+2014–2016: Macao Economic Bulletin 2017 Q1, Table V.5, printed/PDF page 59.
+2017–2019: Macao Economic Bulletin 2020 Q1, Table V.5, printed/PDF page 59.
+2020–2022: Macao Economic Bulletin 2023 Q1, Table V.5, printed/PDF page 61.
+2023–2025: Economic Bulletin 2026 Q2, Table V.5, printed/PDF page 63.
+Use the annual columns, not the adjacent quarterly columns. The total employed
+population is a different population. Quarterly medians were not averaged or substituted.
+
+3. COMPLETED CURRENT-VINTAGE CHECK
+The current public DSEC time-series database was queried on 4 November 2026.
+RPPI indicator 65050: Construction and real estate transaction -> Residential
+property price index (2011=100) -> Overall -> By district -> Macao.
+Earnings indicator 55057: Labour force of local residents -> Median monthly
+employment earnings -> Total. The indicator unit is MOP and annual data are available.
+The read-only POST query requests indicators [65050,55057], types [VAL,VAL],
+dataPeriods [YEARLY], fromYear 2013 and toYear 2025.
+Endpoint: https://www.dsec.gov.mo/TimeSeriesApi/App/IndicatorValue/LatestSameEndPeriodv3
+Public interface: https://www.dsec.gov.mo/ts/#!/step1/en-US
+The response status is OK. Each series has the 13 exact calendar years and no
+quarterly PeriodID. All 26 values agree exactly with the saved publications.
+The raw response, request payload, hierarchy metadata, retrieval date, source hashes
+and per-observation database update dates are preserved. No discrepancy remains
+between the selected archived observations and the database snapshot at retrieval.
+Future revisions cannot be ruled out. Reproduction uses the saved dated snapshot.
+
+4. ADDITIONAL CROSS-CHECKS
+The Statistical Yearbook 2025 workbook, Table 12.16, confirms overall RPPI for
+2015, 2020 and 2023–2025 (227.0;267.0;244.4;215.8;195.5).
+The Employment Survey 2025, page 25, confirms resident medians of MOP 20,500 for
+both 2024 and 2025. The 2026 Q1 and Q2 Economic Bulletins agree for 2023–2025.
+Overlapping 2014–2016 annual RPPI values in the 2016 and 2019 workbooks agree.
+The Employment Survey 2015, page 34, confirms the resident median increased from
+MOP 15,000 in 2014 to MOP 18,000 in 2015. This is an aggregate median change.
+Its cause is not inferred. It is distinct from the full-time resident-employee median.
+The 2015 and 2025 methodology/glossary pages were checked for survey scope.
+
+5. 2017 MODEL CHANGE AND RESIDUAL COMPARABILITY LIMIT
+The original 2017 Q4 release reported an annual overall RPPI of 252.8.
+The later 2019 historical table and current official database report 244.8.
+This release consistently uses 244.8, not the superseded 252.8.
+DSEC's Principal Indicators of Construction Sector 2018 Q4, Table 2.6, page 4,
+explains that the pricing-model reference period changed to three consecutive months
+from 2017 and indices from 2017 were revised accordingly. The official 2011 base
+continues. Matching current values resolves the vintage issue; it does not prove
+that the pre-2017 and later model specifications are identical. No undocumented
+harmonization or backcast is attempted. The 2018–2025 subperiod avoids the transition
+and also shows prices falling relative to earnings. The full series is retained with
+this explicit historical comparability limit.
+
+6. POPULATION, EARNINGS AND UNCERTAINTY
+The 2025 Employment Survey, pages 32–34, defines employed residents as local people
+aged 16 and above who work for pay or profit for at least one hour in the reference
+week, including specified unpaid family workers and people with job attachment.
+Non-resident workers are excluded from this resident series. Gross earnings cover
+all jobs; employee remuneration includes bonuses and allowances, while employer and
+self-employed earnings refer to business profits. This is not household income.
+The household survey excludes collective quarters and people who work in Macao
+while living outside its residential coverage. Medians can change with composition;
+the data do not follow a fixed panel of individuals.
+The annual survey reports precision for some overall-population statistics. Its
+reported precision for the overall median (e.g. MOP 18,000 in 2025) must not be
+transferred to the resident median (MOP 20,500). A matched set of resident-median
+uncertainty estimates for all 13 years is not used here. No error band is invented.
+
+7. INTERPRETATION AND REPRODUCIBILITY
+RPPI measures price change, not the purchase price of a chosen dwelling. Both series
+are nominal. The ratio of their rebased indices compares changes since a chosen year.
+Household earnings, savings, deposits, mortgage rates, dwelling quality and income
+distribution are outside this comparison. No complete affordability, causal or
+forecasting claim is made. All earlier observed base years were checked; their
+comparison periods differ, so the resulting magnitudes are period-dependent.
+The notebook reproduces the analysis from saved separate inputs and source snapshots.
+Exact environment metadata, source hashes and execution checks accompany the release.
