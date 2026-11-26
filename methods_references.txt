@@ -1,0 +1,11 @@
+METHOD REFERENCE
+The local exploratory checks and figure review used procedural guidance from:
+Kassis, T., Agarwal, V., He, Y., Patel, D., & Brueckner, A. M. (2026).
+Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents.
+arXiv:2609.00065v2. https://arxiv.org/abs/2609.00065
+https://doi.org/10.48550/arXiv.2609.00065
+Author/title/version metadata checked against arXiv on 4 November 2026.
+
+This is a workflow reference, not a source of Macao economic observations.
+Official observation sources are listed in source_register.csv and
+observation_provenance.csv. The original publications remain authoritative.
