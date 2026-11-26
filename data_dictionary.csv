@@ -1,0 +1,11 @@
+variable,meaning,unit,precision_or_allowed_values,note_or_formula
+year,Calendar year,year,integer;2013–2025,One row per common annual calendar year
+rppi_2011_100,Overall Residential Property Price Index; Macao,index;2011=100,published one decimal;positive,Annual DSEC level; revised 2017 value 244.8
+resident_earnings_mop,Median monthly employment earnings of employed residents,MOP,published integer;positive,"Official ANNUAL median; individual residents, not households"
+rppi_source_file,Original published annual price source,filename,text,Exact location and URL in observation_provenance.csv
+earnings_source_file,Original published annual resident earnings source,filename,text,Exact location and URL in observation_provenance.csv
+price_index_2013_100,RPPI rebased to 2013,index;2013=100,derived full precision,100×rppi(t)/rppi(2013)
+earnings_index_2013_100,Earnings rebased to 2013,index;2013=100,derived full precision,100×earnings(t)/earnings(2013)
+rppi_growth_pct,Annual change in RPPI,percent,derived full precision;blank for 2013,100×[RPPI(t)/RPPI(t−1)−1]; consecutive years only
+earnings_growth_pct,Annual change in annual resident earnings median,percent,derived full precision;blank for 2013,100×[earnings(t)/earnings(t−1)−1]; consecutive years only
+relative_pressure_2013_100,Relative growth of prices compared with earnings,index;2013=100,derived full precision,100×price_index/earnings_index; not a household affordability ratio
