@@ -1,0 +1,41 @@
+EXPLANATORY NOTES 
+ 
+ 
+1. Methodology 
+The Employment Survey is a monthly household sample survey, with the reference period referring to the 7 days 
+before enumeration. Samples are selected after exclusion of collective living quarters, such as military camps, hospitals, 
+prisons, dormitories and care homes for the elderly. Total sample size for the whole year of 2025 consists of 16,800 
+residential units and the individuals living in these units are covered in the survey. Therefore, Macao SAR residents and 
+non-resident workers who work in the Macao SAR but live outside the territory (e.g. Zhuhai, Hong Kong Special 
+Administrative Region) are excluded from the survey; information on these individuals (number, age group, etc.) is 
+extrapolated according to the movement records. 
+Results of this report are extrapolated based on the information obtained from the samples that are subject to 
+sampling errors. To illustrate the precision of the estimates of different variables, the respective standard deviation and 
+coefficient of variation are listed in the table below. 
+ 
+Variable Estimated value Standard deviation Coefficient of variation 
+(%) 
+Economically active population ('000) 381.9 6.66 1.7 
+Employed population ('000) 374.7 6.80 1.8 
+Underemployed population ('000) 5.6 0.51 9.1 
+Unemployed population ('000) 7.2 0.56 7.8 
+Median monthly employment earnings (MOP) 18,000 286 1.6 
+Labour force participation rate (%) 66.8 0.35 0.5 
+Unemployment rate (%) 1.9 0.17 8.9 
+Underemployment rate (%) 1.5 0.14 9.3 
+ 
+Response rate is the ratio of the number of residential units successfully interviewed to the number of occupied units 
+in the sample. In 2025, a total of 15,855 units were occupied, comprising 13,395 successful interviews, 181 refusals and 
+2,279 non-contacts; therefore, the response rate stood at 84.5%. 
+ 
+2. Glossary 
+Economically active population / Labour force 
+Individuals aged 16 and above who are available to participate in the production of goods and/or services during the 7 
+days before enumeration. It comprises the employed and unemployed. 
+Educational attainment 
+The highest level of education an individual successfully completed. Education is classified into primary education, 
+junior secondary education, senior secondary education, tertiary education and others. "Primary education" refers to 
+completion of grade six; those who fail to complete grade six are classified as "others". 
+ 
+32Inquérito ao Emprego 2025 Employment Survey 2025
+就業調查 二零二五年
