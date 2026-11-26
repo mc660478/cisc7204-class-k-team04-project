@@ -1,0 +1,40 @@
+Employed population 
+Individuals aged 16 and above who work for pay or profit for at least 1 hour during the 7 days before enumeration. It 
+also includes unpaid family workers, employees who are absent from work but have job attachment to the employer, as well 
+as employers or the self-employed who are on leave. 
+Employed population comprises employed residents and non-resident workers living in the Macao SAR. 
+Employed residents 
+Local population aged 16 and above who work for pay or profit for at least 1 hour during the 7 days before 
+enumeration. It also includes unpaid family workers, employees who are absent from work but have job attachment to the 
+employer, as well as employers or the self-employed who are on leave. Non-resident workers are excluded. 
+Employed residents who changed jobs 
+Full-time employed residents who have changed their job (including changes of industry engaged, company / 
+organisation, employer or status in employment) during the 12 months prior to enumeration. 
+Employment earnings 
+Refer to gross earnings from all jobs in the month prior to the enumeration. For employees, it refers to remuneration 
+received, including salaries, commissions, gratuities, overtime pay, bonuses, allowances, double pay, rewards, etc. For 
+employers and the self-employed, it refers to profits earned from running their business, i.e. operating receipts less 
+production costs and depreciation of assets. 
+Hours actually worked 
+Refer to the number of hours actually worked during the 7 days before enumeration, which include hours of paid and 
+unpaid overtime work, excluding meal breaks and absence from work due to public holidays, annual leave, sickness or other 
+reasons. 
+Labour force participation rate 
+The proportion of the economically active population to the population aged 16 and above. 
+Resident labour force 
+Local population aged 16 and above who are available to participate in the production of goods and/or services during 
+the 7 days before enumeration. Non-resident workers are excluded. 
+Underemployed population 
+Refers to employed persons, regardless of their status in employment, who work involuntarily for less than 35 hours 
+during the 7 days before enumeration and who meet any of the following conditions: 
+1) are available to take on additional work; or 
+2) are looking for extra work during the 30 days before enumeration. 
+Underemployed residents 
+Refer to employed residents, regardless of their status in employment, who work involuntarily for less than 35 hours 
+during the 7 days before enumeration and who meet any of the following conditions: 
+1) are available to take on additional work; or 
+2) are looking for extra work during the 30 days before enumeration. 
+Underemployment rate 
+Percentage share of the number of the underemployed to the labour force. 
+33Inquérito ao Emprego 2025 Employment Survey 2025
+就業調查 二零二五年
