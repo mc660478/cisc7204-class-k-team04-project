@@ -1,0 +1,20 @@
+{
+  "url": "https://www.dsec.gov.mo/TimeSeriesApi/App/IndicatorValue/LatestSameEndPeriodv3",
+  "method": "POST_read_only_query",
+  "payload": {
+    "indicator_ids": [
+      65050,
+      55057
+    ],
+    "language": "en-US",
+    "types": [
+      "VAL",
+      "VAL"
+    ],
+    "dataPeriods": [
+      "YEARLY"
+    ],
+    "fromYear": 2013,
+    "toYear": 2025
+  }
+}
