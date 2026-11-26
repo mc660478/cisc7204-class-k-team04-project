@@ -1,0 +1,66 @@
+[
+  {
+    "stem": "01_common_base_trends",
+    "standard_dimensions": [
+      1200,
+      760
+    ],
+    "report_dimensions": [
+      1200,
+      620
+    ],
+    "temporary_session_fonts_registered": 7,
+    "session_fonts_restored": true,
+    "svg_embedded_font_faces": 7,
+    "html_plotly_inlined": true,
+    "html_mathjax_disabled": true
+  },
+  {
+    "stem": "02_annual_growth",
+    "standard_dimensions": [
+      1200,
+      760
+    ],
+    "report_dimensions": [
+      1200,
+      620
+    ],
+    "temporary_session_fonts_registered": 7,
+    "session_fonts_restored": true,
+    "svg_embedded_font_faces": 7,
+    "html_plotly_inlined": true,
+    "html_mathjax_disabled": true
+  },
+  {
+    "stem": "03_relative_price_pressure",
+    "standard_dimensions": [
+      1200,
+      760
+    ],
+    "report_dimensions": [
+      1200,
+      620
+    ],
+    "temporary_session_fonts_registered": 7,
+    "session_fonts_restored": true,
+    "svg_embedded_font_faces": 7,
+    "html_plotly_inlined": true,
+    "html_mathjax_disabled": true
+  },
+  {
+    "stem": "04_all_base_year_sensitivity",
+    "standard_dimensions": [
+      1200,
+      760
+    ],
+    "report_dimensions": [
+      1200,
+      620
+    ],
+    "temporary_session_fonts_registered": 7,
+    "session_fonts_restored": true,
+    "svg_embedded_font_faces": 7,
+    "html_plotly_inlined": true,
+    "html_mathjax_disabled": true
+  }
+]
